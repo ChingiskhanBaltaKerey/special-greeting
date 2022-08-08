@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\dotnet_special_greeting\bin\Debug\net6.0\dotnet_special_greeting.exe
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\dotnet_special_greeting\bin\Debug\net6.0\dotnet_special_greeting.deps.json
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\dotnet_special_greeting\bin\Debug\net6.0\dotnet_special_greeting.runtimeconfig.json
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\dotnet_special_greeting\bin\Debug\net6.0\dotnet_special_greeting.dll
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\dotnet_special_greeting\bin\Debug\net6.0\dotnet_special_greeting.pdb
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\dotnet_special_greeting\obj\Debug\net6.0\dotnet_special_greeting.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\dotnet_special_greeting\obj\Debug\net6.0\dotnet_special_greeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\dotnet_special_greeting\obj\Debug\net6.0\dotnet_special_greeting.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\dotnet_special_greeting\obj\Debug\net6.0\dotnet_special_greeting.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\dotnet_special_greeting\obj\Debug\net6.0\dotnet_special_greeting.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\dotnet_special_greeting\obj\Debug\net6.0\dotnet_special_greeting.dll
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\dotnet_special_greeting\obj\Debug\net6.0\refint\dotnet_special_greeting.dll
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\dotnet_special_greeting\obj\Debug\net6.0\dotnet_special_greeting.pdb
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\dotnet_special_greeting\obj\Debug\net6.0\dotnet_special_greeting.genruntimeconfig.cache
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\dotnet_special_greeting\obj\Debug\net6.0\ref\dotnet_special_greeting.dll
