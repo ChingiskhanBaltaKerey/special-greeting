@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\taskWithWeights\bin\Debug\net6.0\taskWithWeights.exe
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\taskWithWeights\bin\Debug\net6.0\taskWithWeights.deps.json
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\taskWithWeights\bin\Debug\net6.0\taskWithWeights.runtimeconfig.json
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\taskWithWeights\bin\Debug\net6.0\taskWithWeights.dll
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\taskWithWeights\bin\Debug\net6.0\taskWithWeights.pdb
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\taskWithWeights\obj\Debug\net6.0\taskWithWeights.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\taskWithWeights\obj\Debug\net6.0\taskWithWeights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\taskWithWeights\obj\Debug\net6.0\taskWithWeights.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\taskWithWeights\obj\Debug\net6.0\taskWithWeights.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\taskWithWeights\obj\Debug\net6.0\taskWithWeights.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\taskWithWeights\obj\Debug\net6.0\taskWithWeights.dll
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\taskWithWeights\obj\Debug\net6.0\refint\taskWithWeights.dll
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\taskWithWeights\obj\Debug\net6.0\taskWithWeights.pdb
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\taskWithWeights\obj\Debug\net6.0\taskWithWeights.genruntimeconfig.cache
+C:\Users\User\Desktop\HomeWork\dotnetLubimchik\Lubimchik001\taskWithWeights\obj\Debug\net6.0\ref\taskWithWeights.dll
